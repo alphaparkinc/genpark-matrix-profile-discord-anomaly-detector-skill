@@ -1,0 +1,20 @@
+{
+  "name": "genpark-matrix-profile-discord-anomaly-detector-skill",
+  "version": "1.0.0",
+  "description": "Matrix Profile 1D subsequence distance profile and top discord anomaly detection",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "matrix-profile",
+    "anomaly-detection",
+    "time-series",
+    "discord-discovery",
+    "subsequence-search",
+    "motif-discovery",
+    "python-standard-library",
+    "agent-skills",
+    "outlier-detection",
+    "euclidean-distance"
+  ]
+}
