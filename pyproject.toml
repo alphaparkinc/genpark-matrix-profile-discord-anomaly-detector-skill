@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-matrix-profile-discord-anomaly-detector-skill"
+version = "1.0.0"
+description = "Matrix Profile 1D subsequence distance profile and top discord anomaly detection"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
