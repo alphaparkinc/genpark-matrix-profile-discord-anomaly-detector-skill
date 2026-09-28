@@ -1,0 +1,6 @@
+name: genpark-matrix-profile-discord-anomaly-detector-skill
+version: 1.0.0
+description: Matrix Profile 1D subsequence distance profile and top discord anomaly detection
+command: python
+args:
+  - mcp_server.py
